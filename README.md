@@ -138,7 +138,7 @@
   <a href="mailto:er.mayureshkumar@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@suvarnainnovations945" target="_blank">
+  <a href="https://www.youtube.com/@suvarnainnovations" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
